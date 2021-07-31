@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{517A04C6-A51B-45C9-BDCD-90C9655602A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{C1FAA4F1-F451-448D-BA76-7A4ADCAD6834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentLibrary", "ContentLibrary\ContentLibrary.csproj", "{1147819F-1CC4-4BD2-AC17-7581D528DD12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517A04C6-A51B-45C9-BDCD-90C9655602A2}.Debug|x86.ActiveCfg = Debug|x86
+		{517A04C6-A51B-45C9-BDCD-90C9655602A2}.Release|x86.ActiveCfg = Release|x86
+		{C1FAA4F1-F451-448D-BA76-7A4ADCAD6834}.Debug|x86.ActiveCfg = Debug|x86
+		{C1FAA4F1-F451-448D-BA76-7A4ADCAD6834}.Debug|x86.Build.0 = Debug|x86
+		{C1FAA4F1-F451-448D-BA76-7A4ADCAD6834}.Release|x86.ActiveCfg = Release|x86
+		{C1FAA4F1-F451-448D-BA76-7A4ADCAD6834}.Release|x86.Build.0 = Release|x86
+		{1147819F-1CC4-4BD2-AC17-7581D528DD12}.Debug|x86.ActiveCfg = Debug|x86
+		{1147819F-1CC4-4BD2-AC17-7581D528DD12}.Debug|x86.Build.0 = Debug|x86
+		{1147819F-1CC4-4BD2-AC17-7581D528DD12}.Release|x86.ActiveCfg = Release|x86
+		{1147819F-1CC4-4BD2-AC17-7581D528DD12}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
